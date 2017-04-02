@@ -1,0 +1,6 @@
+c:\users\grant\onedrive\documents\visual studio 2017\Projects\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+c:\users\grant\onedrive\documents\visual studio 2017\Projects\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+c:\users\grant\onedrive\documents\visual studio 2017\Projects\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+c:\users\grant\onedrive\documents\visual studio 2017\Projects\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csprojResolveAssemblyReference.cache
+c:\users\grant\onedrive\documents\visual studio 2017\Projects\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.exe
+c:\users\grant\onedrive\documents\visual studio 2017\Projects\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.pdb
